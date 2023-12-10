@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('promo_code');
             $table->integer('discount_percentage');
             $table->date('expiration_date');
+            $table->timestamps();
         });
     }
 

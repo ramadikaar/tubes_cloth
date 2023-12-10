@@ -15,6 +15,7 @@ return new class extends Migration
             $table->id('category_id');
             $table->integer('product_id');
             $table->string('category_name');
+            $table->timestamps();
         });
     }
 

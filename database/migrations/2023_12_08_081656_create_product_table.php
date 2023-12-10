@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string('image_url');
             $table->integer('category_id');
             $table->integer('stock_id');
+            $table->timestamps();
         });
     }
 

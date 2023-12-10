@@ -20,6 +20,7 @@ return new class extends Migration
             $table->integer('total_amount');
             $table->string('payment_method');
             $table->string('status');
+            $table->timestamps();
         });
     }
 

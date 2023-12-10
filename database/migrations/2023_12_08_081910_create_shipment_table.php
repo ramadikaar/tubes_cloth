@@ -17,6 +17,7 @@ return new class extends Migration
             $table->text('shipping_address');
             $table->string('tracking_number');
             $table->string('shipment_status');
+            $table->timestamps();
         });
     }
 
