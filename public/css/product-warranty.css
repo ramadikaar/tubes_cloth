@@ -1,0 +1,1008 @@
+.product-warranty-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.product-warranty-product-warranty {
+  width: 100%;
+  height: 2443px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.product-warranty-header {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 105px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.product-warranty-header1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 105px;
+  position: absolute;
+}
+.product-warranty-layout-kanan {
+  top: 44px;
+  left: 1570px;
+  width: 123px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-search-barcta {
+  top: 0px;
+  left: 100px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+}
+.product-warranty-profile-cta {
+  top: 0px;
+  left: 50px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+}
+.product-warranty-cart-cta {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+}
+.product-warranty-text {
+  top: 43px;
+  left: 1073px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text02 {
+  top: 44px;
+  left: 944px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text04 {
+  top: 44px;
+  left: 803px;
+  color: rgba(255, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-logo {
+  top: 14px;
+  left: 137px;
+  width: 126px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-text06 {
+  top: 29px;
+  left: 70px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-sctahome {
+  top: 0px;
+  left: 0px;
+  width: 89px;
+  height: 75px;
+  position: absolute;
+}
+.product-warranty-footer {
+  top: 1571px;
+  left: 0px;
+  width: 1920px;
+  height: 872px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(179, 179, 179, 1);
+}
+.product-warranty-copyright {
+  top: 662px;
+  left: -3px;
+  width: 1923px;
+  height: 210px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-rectangle33 {
+  top: 6px;
+  left: 3px;
+  width: 1920px;
+  height: 204px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.product-warranty-line4 {
+  top: 3px;
+  left: 3px;
+  width: 1917px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-text08 {
+  top: 75px;
+  color: rgba(255, 255, 255, 1);
+  width: 1920px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-footer-information {
+  top: 205px;
+  left: 0px;
+  width: 1920px;
+  height: 457px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 1);
+}
+.product-warranty-getin-touch {
+  top: 25px;
+  left: 1149px;
+  width: 435px;
+  height: 327px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-business-inquiries {
+  top: 219px;
+  left: 36px;
+  width: 317px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-text10 {
+  color: rgba(255, 255, 255, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text12 {
+  top: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-customer-service {
+  top: 66px;
+  left: 36px;
+  width: 317px;
+  height: 141px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-text14 {
+  top: 78px;
+  color: rgba(255, 255, 255, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text16 {
+  top: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 302px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text18 {
+  color: rgba(255, 255, 255, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text20 {
+  color: rgba(255, 255, 255, 1);
+  width: 435px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-in-case-youre-wondering {
+  top: 25px;
+  left: 560px;
+  width: 435px;
+  height: 389px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-text22 {
+  top: 278px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 191px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text24 {
+  top: 323px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text26 {
+  top: 368px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text28 {
+  top: 233px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text30 {
+  top: 188px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text32 {
+  top: 143px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text34 {
+  top: 98px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text36 {
+  top: 53px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text38 {
+  color: rgba(255, 255, 255, 1);
+  width: 435px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-getto-know-us {
+  top: 25px;
+  left: 37px;
+  width: 229px;
+  height: 121px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-text40 {
+  top: 99px;
+  left: 29px;
+  color: rgba(255, 255, 255, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text42 {
+  top: 54px;
+  left: 29px;
+  color: rgba(255, 255, 255, 1);
+  width: 76px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text44 {
+  color: rgba(255, 255, 255, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-socmed-icon {
+  top: 259.4084777832031px;
+  left: 97px;
+  width: 180.57211303710938px;
+  height: 32.591796875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-untitled1 {
+  top: 1.591796875px;
+  left: 72.09765625px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.product-warranty-instagramiconwhitepng41 {
+  top: 1.591796875px;
+  left: 3.637978807091713e-12px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.product-warranty-whatsappicon2045x204865qn89dz1 {
+  top: 0.2174959033727646px;
+  left: 149.306640625px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.product-warranty-subscribe-newsletter {
+  top: 0px;
+  left: 0px;
+  width: 1920.0224609375px;
+  height: 205.1866455078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-rectangle29 {
+  top: 0px;
+  left: 0.00004290230572223663px;
+  width: 1920px;
+  height: 203px;
+  position: absolute;
+}
+.product-warranty-email-address {
+  top: 63px;
+  left: 1313px;
+  width: 462.99951171875px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-rectangleemail {
+  top: 0px;
+  left: 0px;
+  width: 381px;
+  height: 50px;
+  position: absolute;
+  border-color: rgba(255, 253, 253, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.product-warranty-text46 {
+  top: 9.473625183105469px;
+  left: 11.536532402038574px;
+  color: rgba(255, 255, 255, 1);
+  width: 360px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-submit-cta {
+  top: 4.547473508864641e-13px;
+  left: 380.70556640625px;
+  width: 82.29393005371094px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.product-warranty-arrow2 {
+  top: 25.263179779052734px;
+  left: 21.534873962402344px;
+  width: 40px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-line3 {
+  top: 205.1866455078125px;
+  left: 0px;
+  width: 1920px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-text-panjang {
+  top: 55px;
+  left: 126px;
+  width: 1130px;
+  height: 92px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-text48 {
+  top: 8px;
+  color: rgba(255, 255, 255, 1);
+  width: 297px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Prata;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text50 {
+  left: 404px;
+  color: rgba(255, 255, 255, 1);
+  width: 726px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-line39 {
+  top: 131px;
+  left: 0px;
+  width: 1920px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-line40 {
+  top: 262px;
+  left: 0px;
+  width: 1920px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-text52 {
+  top: 197px;
+  left: 812px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-steps {
+  top: 420px;
+  left: 333px;
+  width: 1299.001708984375px;
+  height: 1059px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-info1 {
+  top: 0px;
+  left: 2px;
+  width: 1296.999755859375px;
+  height: 137.0560302734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-line42 {
+  top: 131px;
+  left: 0px;
+  width: 1297px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-group37 {
+  top: 0px;
+  left: 0px;
+  width: 1295px;
+  height: 98px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-text54 {
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  width: 1142px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-image2 {
+  top: 0px;
+  left: 0px;
+  width: 107px;
+  height: 98px;
+  position: absolute;
+}
+.product-warranty-info2 {
+  top: 160px;
+  left: 1px;
+  width: 1297.999755859375px;
+  height: 120.0560302734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-line43 {
+  top: 114px;
+  left: 1px;
+  width: 1297px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-image1 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 99px;
+  position: absolute;
+}
+.product-warranty-text56 {
+  top: 13px;
+  left: 154px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-info3 {
+  top: 295px;
+  left: 2px;
+  width: 1297.001708984375px;
+  height: 148.0560302734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-line44 {
+  top: 142px;
+  left: 0.001953125px;
+  width: 1297px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-image3 {
+  top: 0px;
+  left: 0px;
+  width: 116px;
+  height: 108px;
+  position: absolute;
+}
+.product-warranty-text58 {
+  top: 21px;
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  width: 1144px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-info4 {
+  top: 458px;
+  left: 2px;
+  width: 1296.999755859375px;
+  height: 158.0560302734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-line45 {
+  top: 152px;
+  left: 0px;
+  width: 1297px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-image4 {
+  top: 0px;
+  left: 0px;
+  width: 116px;
+  height: 112px;
+  position: absolute;
+}
+.product-warranty-text60 {
+  top: 52px;
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-info5 {
+  top: 631px;
+  left: 0px;
+  width: 1299px;
+  height: 153.0560302734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-line46 {
+  top: 147px;
+  left: 0px;
+  width: 1297px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-image5 {
+  top: 0px;
+  left: 2px;
+  width: 116px;
+  height: 111px;
+  position: absolute;
+}
+.product-warranty-text62 {
+  top: 21px;
+  left: 155px;
+  color: rgba(0, 0, 0, 1);
+  width: 1144px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-info6 {
+  top: 799px;
+  left: 0px;
+  width: 1296.999755859375px;
+  height: 152.0560302734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-line47 {
+  top: 146px;
+  left: 0px;
+  width: 1297px;
+  height: 1px;
+  position: absolute;
+}
+.product-warranty-image6 {
+  top: 0px;
+  left: 2px;
+  width: 116px;
+  height: 110px;
+  position: absolute;
+}
+.product-warranty-text64 {
+  top: 34px;
+  left: 155px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-info9 {
+  top: 987px;
+  left: 2px;
+  width: 610px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.product-warranty-text66 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-warranty-text67 {
+  font-weight: 700;
+}
+.product-warranty-text72 {
+  top: 36px;
+  left: 408px;
+  color: rgba(1, 157, 244, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
